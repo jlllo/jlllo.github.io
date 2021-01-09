@@ -12,4 +12,4 @@ Acesse pelo `gh-pages` **[clicando aqui](https://jlllo.github.io)**.
 
 ## Deployment
 
-- [GitHub Pages](https://www.gatsbyjs.com/)
+- [GitHub Pages](https://pages.github.com/)
